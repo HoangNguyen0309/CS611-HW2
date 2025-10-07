@@ -1,12 +1,10 @@
 # 🎮 Assignment 2 — Sliding Puzzle & Dots and Boxes
 
 ## 👤 Student Information
-*(Fill in your details below)*  
 
-**Name:** Hoang Nguyen  
-**Course:** Object-Oriented Programming (Java)  
-**Assignment:** #2 — Sliding Puzzle & Dots and Boxes  
-**Date Submitted:** October 2025  
+Hoang Nguyen  hnguy@bu.edu
+
+
 
 ---
 

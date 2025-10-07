@@ -1,4 +1,4 @@
-# 🎮 Assignment 2 — Sliding Puzzle & Dots and Boxes
+# Assignment 2 — Sliding Puzzle & Dots and Boxes
 
 ## 👤 Student Information
 
@@ -57,11 +57,7 @@ Hoang Nguyen  hnguy@bu.edu
 ## ⚙️ Compile & Run Instructions
 
 ```bash
-# Compile
-javac app/Main.java
-
-# Run
-java app.Main
+fill in TODO
 ```
 
 ---
@@ -160,5 +156,3 @@ Winner: b
 ```
 
 ---
-
-✅ **End of README**
